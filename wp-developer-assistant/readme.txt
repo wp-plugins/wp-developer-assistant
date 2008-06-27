@@ -4,7 +4,7 @@ Donate link: http://blog.realthemes.com/donations/
 Tags: developer, development, debug
 Requires at least: 2.2
 Tested up to: 2.5.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 A plugin by a WordPress developer for WordPress developers.
 
@@ -61,6 +61,9 @@ There are many more features planned for this plugin. For more information about
 
 1.0.1 - 2008-06-26
 Initial release version
+
+1.0.2 - 2008-06-26
+Slight modification that required a new version
 
 == More Information ==
 
