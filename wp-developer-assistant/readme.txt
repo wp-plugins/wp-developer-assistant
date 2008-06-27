@@ -42,6 +42,16 @@ There are many more features planned for this plugin. For more information about
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Click on the __Developer__ link in the main administration navigation to access the tools
 
+== Screenshots ==
+
+1. The main Developer page with options to enable errors and variable output. These settings are set per-user, so no one else will see your debug data cluttering up their screen.
+2. The Options page for easy modification of entries in the options table, inlcluding serialized data. Ability to add and remove options will be added soon.
+3. The Hooks page displays detailed information about add_action, do_action, add_filter, and apply_filters function calls and where they are located in the source files.
+4. Run Query is a simple tool that lets you run arbitrary queries on the database. Very useful for development, testing, and repairs.
+5. The PHP Info page simply shows the output from phpinfo(). It may not be fancy, but it can be extremely useful.
+6. The Defines page shows detailed information about defined named constants. Can't remember what that constant was called that holds the location to the plugins directory? This should help you remember.
+7. The Upload Files page is an invaluable tool for quickly and easily uploading any type of file (including archives) to any location inside WordPress. You can even upload from a remote URL.
+
 == Requirements ==
 
 * PHP 5+
