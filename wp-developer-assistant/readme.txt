@@ -12,15 +12,15 @@ A plugin by a WordPress developer for WordPress developers.
 
 __WP Developer Assistant__ is a WordPress plugin developed by a WordPress developer for WordPress developers.
 
-* Have you ever needed to run a query when you didn’t have access to phpMyAdmin or SSH?
-* Don’t you hate it when you need to upload a plugin, theme, or other file and don’t have FTP access?
+* Have you ever needed to run a query when you didn't have access to phpMyAdmin or SSH?
+* Don't you hate it when you need to upload a plugin, theme, or other file and don't have FTP access?
 * Have you ever wondered where that action or filter hook gets called?
 * Want to enable errors while hiding them from everyone else?
-* Wouldn’t it be great if you could output a full listing of PHP global variable values on each page so debugging would be easier?
+* Wouldn't it be great if you could output a full listing of PHP global variable values on each page so debugging would be easier?
 * Ever wanted to modify one of those serialized options?
 * Would you like to quickly see a full list of defined constants?
 
-So would I! That’s why I made this plugin. WP Developer Assistant is the first WordPress plugin of its kind. It essentially is a toolkit that makes life as a WordPress developer easier.
+So would I! That's why I made this plugin. WP Developer Assistant is the first WordPress plugin of its kind. It essentially is a toolkit that makes life as a WordPress developer easier.
 
 = Features =
 
