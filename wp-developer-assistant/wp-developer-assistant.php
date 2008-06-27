@@ -4,7 +4,7 @@
 Plugin Name: WP Developer Assistant
 Plugin URI: http://blog.realthemes.com/wp-developer-assistant/
 Description: A plugin by a WordPress developer for WordPress developers.
-Version: 1.0.1
+Version: 1.0.2
 Author: Chris Jean
 Author URI: http://realthemes.com
 */
@@ -28,6 +28,8 @@ Version History
 
 1.0.1 - 2008-06-26
 	Initial release version
+1.0.2 - 2008-06-26
+	Slight modification that required a new version
 */
 
 /*
