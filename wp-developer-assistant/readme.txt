@@ -59,11 +59,8 @@ There are many more features planned for this plugin. For more information about
 
 == Version History ==
 
-1.0.1 - 2008-06-26
-Initial release version
-
-1.0.2 - 2008-06-26
-Slight modification that required a new version
+* 1.0.1 - 2008-06-26 - Initial release version
+* 1.0.2 - 2008-06-26 - Slight modification that required a new version
 
 == More Information ==
 
