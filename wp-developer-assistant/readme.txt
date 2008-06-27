@@ -20,7 +20,7 @@ __WP Developer Assistant__ is a WordPress plugin developed by a WordPress develo
 * Ever wanted to modify one of those serialized options?
 * Would you like to quickly see a full list of defined constants?
 
-So would I! That's why I made this plugin. WP Developer Assistant is the first WordPress plugin of its kind. It essentially is a toolkit that makes life as a WordPress developer easier.
+It's thoughts like these that caused me to make this plugin. WP Developer Assistant is the first WordPress plugin of its kind. It essentially is a toolkit that makes life as a WordPress developer easier.
 
 = Features =
 
