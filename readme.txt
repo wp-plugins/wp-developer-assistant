@@ -6,7 +6,7 @@ Requires at least: 2.2
 Tested up to: 2.5.1
 Stable tag: 1.0.2
 
-A plugin by a WordPress developer for WordPress developers.
+Upload files without FTP, run database queries directly, modify serialized options, view detailed information about WordPress hooks, and more with this WordPress developer toolkit.
 
 == Description ==
 
