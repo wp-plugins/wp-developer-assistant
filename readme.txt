@@ -12,15 +12,15 @@ A plugin by a WordPress developer for WordPress developers.
 
 __WP Developer Assistant__ is a WordPress plugin developed by a WordPress developer for WordPress developers.
 
-* Have you ever needed to run a query when you didn’t have access to phpMyAdmin or SSH?
-* Don’t you hate it when you need to upload a plugin, theme, or other file and don’t have FTP access?
+* Have you ever needed to run a query when you didn't have access to phpMyAdmin or SSH?
+* Don't you hate it when you need to upload a plugin, theme, or other file and don't have FTP access?
 * Have you ever wondered where that action or filter hook gets called?
 * Want to enable errors while hiding them from everyone else?
-* Wouldn’t it be great if you could output a full listing of PHP global variable values on each page so debugging would be easier?
+* Wouldn't it be great if you could output a full listing of PHP global variable values on each page so debugging would be easier?
 * Ever wanted to modify one of those serialized options?
 * Would you like to quickly see a full list of defined constants?
 
-So would I! That’s why I made this plugin. WP Developer Assistant is the first WordPress plugin of its kind. It essentially is a toolkit that makes life as a WordPress developer easier.
+It's thoughts like these that caused me to make this plugin. WP Developer Assistant is the first WordPress plugin of its kind. It essentially is a toolkit that makes life as a WordPress developer easier.
 
 = Features =
 
@@ -38,9 +38,19 @@ There are many more features planned for this plugin. For more information about
 == Installation ==
 
 1. Download and unzip the latest release zip file
-2. Upload the entire current-date-time-widget directory to your `/wp-content/plugins/` directory
+2. Upload the entire wp-developer-assistant directory to your `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Click on the __Developer__ link in the main administration navigation to access the tools
+
+== Screenshots ==
+
+1. The main Developer page with options to enable errors and variable output. These settings are set per-user, so no one else will see your debug data cluttering up their screen.
+2. The Options page for easy modification of entries in the options table, inlcluding serialized data. Ability to add and remove options will be added soon.
+3. The Hooks page displays detailed information about add_action, do_action, add_filter, and apply_filters function calls and where they are located in the source files.
+4. Run Query is a simple tool that lets you run arbitrary queries on the database. Very useful for development, testing, and repairs.
+5. The PHP Info page simply shows the output from phpinfo(). It may not be fancy, but it can be extremely useful.
+6. The Defines page shows detailed information about defined named constants. Can't remember what that constant was called that holds the location to the plugins directory? This should help you remember.
+7. The Upload Files page is an invaluable tool for quickly and easily uploading any type of file (including archives) to any location inside WordPress. You can even upload from a remote URL.
 
 == Requirements ==
 
@@ -49,8 +59,7 @@ There are many more features planned for this plugin. For more information about
 
 == Version History ==
 
-1.0.1 - 2008-06-26
-Initial release version
+* 1.0.1 - 2008-06-26 - Initial release version
 
 == More Information ==
 
