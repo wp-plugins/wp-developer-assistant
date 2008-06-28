@@ -10,12 +10,6 @@ Author URI: http://realthemes.com
 */
 
 /*
-Currently this plugin will only achieve full-functionality on Linux-
-based operating systems. Depending on access to run commands, some
-functionality may not be available even on Linux-based systems.
-*/
-
-/*
 Installation
 
 1. Download and unzip the latest release zip file
@@ -132,7 +126,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
 
-if ( !class_exists( 'WPDeveloperAssistant' ) ) {
+if ( !class_exists( '' ) ) {
 	class WPDeveloperAssistant {
 		protected $_var = "wp-developer-assistant";
 		protected $_name = "WP Developer Assistant";
