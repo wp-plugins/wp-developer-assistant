@@ -126,7 +126,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
 
-if ( !class_exists( '' ) ) {
+if ( !class_exists( 'WPDeveloperAssistant' ) ) {
 	class WPDeveloperAssistant {
 		protected $_var = "wp-developer-assistant";
 		protected $_name = "WP Developer Assistant";
