@@ -4,7 +4,7 @@ Donate link: http://blog.realthemes.com/donations/
 Tags: developer, development, debug
 Requires at least: 2.2
 Tested up to: 2.5.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 
 A plugin by a WordPress developer for WordPress developers.
 
@@ -38,7 +38,7 @@ There are many more features planned for this plugin. For more information about
 == Installation ==
 
 1. Download and unzip the latest release zip file
-2. Upload the entire current-date-time-widget directory to your `/wp-content/plugins/` directory
+2. Upload the entire wp-developer-assistant directory to your `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Click on the __Developer__ link in the main administration navigation to access the tools
 
@@ -54,13 +54,14 @@ There are many more features planned for this plugin. For more information about
 
 == Requirements ==
 
-* PHP 5+
+* PHP 4+
 * WordPress 2.2+
 
 == Version History ==
 
 * 1.0.1 - 2008-06-26 - Initial release version
 * 1.0.2 - 2008-06-26 - Slight modification that required a new version
+* 1.0.3 - 2008-07-01 - Added support for PHP 4
 
 == More Information ==
 
