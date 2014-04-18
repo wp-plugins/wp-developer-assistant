@@ -1,6 +1,5 @@
 === WP Developer Assistant ===
-Contributors: chrisbliss18
-Donate link: http://blog.realthemes.com/donations/
+Contributors: chrisjean
 Tags: developer, development, debug
 Requires at least: 2.2
 Tested up to: 2.5.1
