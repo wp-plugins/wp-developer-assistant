@@ -676,13 +676,7 @@ if ( !class_exists( 'WPDeveloperAssistant' ) ) {
 		
 		function phpInfoPage() {
 			if ( function_exists( 'phpinfo' ) ) {
-
-				ob_start () ;
-				phpinfo () ;
-				$pinfo = ob_get_contents () ;
-				ob_end_clean () ;
-				preg_replace ( '#<style.*</style>#m', '', $pinfo );
-				echo $pinfo;
+				phpinfo() ;
 			}
 			else {
 				echo "Function phpinfo() unavailable.";
