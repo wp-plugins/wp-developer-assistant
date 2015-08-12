@@ -1,8 +1,8 @@
 === WP Developer Assistant ===
-Contributors: chrisjean
+Contributors: chrisjean, paultgoodchild
 Tags: developer, development, debug
 Requires at least: 2.2
-Tested up to: 2.5.1
+Tested up to: 4.3
 Stable tag: 1.0.3
 
 A plugin by a WordPress developer for WordPress developers.
@@ -61,6 +61,7 @@ There are many more features planned for this plugin. For more information about
 * 1.0.1 - 2008-06-26 - Initial release version
 * 1.0.2 - 2008-06-26 - Slight modification that required a new version
 * 1.0.3 - 2008-07-01 - Added support for PHP 4
+* 1.0.4 - 2015-08-12 - Removed sources of PHP Warnings and replaced uses of deprecated WordPress functions with newer equivalents
 
 == More Information ==
 
